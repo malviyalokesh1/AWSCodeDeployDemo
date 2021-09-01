@@ -1,5 +1,5 @@
 version: 0.0
-os: Ubantu
+os: ubantu
 files:
   - source: ./demo.html
     destination: /
