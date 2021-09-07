@@ -4,7 +4,7 @@ const port = 3000;
 
 app.get("/", (req, res) => {
   res.send(
-    "<h1>CI/CD Demo 3</h1> <h4>Message: Success</h4> <p>Version 1.0</p>"
+    "<h1>CI/CD Demo 2</h1> <h4>Message: Success</h4> <p>Version 1.0</p>"
   );
 });
 
